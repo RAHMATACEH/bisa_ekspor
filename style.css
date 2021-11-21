@@ -1,0 +1,35 @@
+.container_father{
+    height: 54px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 200px;
+}
+
+.gambarstore{
+    width: 192px;
+    padding-left: 15px;
+}
+
+.gambargoogle{
+    width: 192px;
+}
+
+.berubah{
+    padding-left: 35px;
+    padding-top: 15px;
+}
+.gantiposisi{
+    display: flex;
+    align-items: center;
+}
+.bisaekspor{
+    font-size: 70px;
+    font-family: 'Roboto';
+    width: 440px;
+
+}
+.kamibantu{
+    font-size: 21px;
+    font-family: 'Roboto';
+    width: 414;
+}
